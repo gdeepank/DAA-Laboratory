@@ -1,2 +1,2 @@
-# data-structures-algorithms-laboratory
-Implementation of algorithms learnt in Design and Analysis of Algorithms (DAA) course
+# DAA-Laboratory
+Laboratory programs implemented for Sem 4 Design and Analysis of Algorithms course.
